@@ -3,6 +3,11 @@
   "description": "Hide WhatsApp Web messages for the curious",
   "version": "1.0",
   "manifest_version": 3,
+  "icons": {
+    "16": "icons/16x.png",
+    "48": "icons/48x.png",
+    "128": "icons/128x.png"
+  },
   "content_scripts": [
     {
       "matches": [
