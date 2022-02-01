@@ -21,7 +21,8 @@
   "web_accessible_resources": [
     {
       "resources": [
-        "dodger.css"
+        "dodger.css",
+        "dodger-button.css"
       ],
       "matches": [
         "<all_urls>"

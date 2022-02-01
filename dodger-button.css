@@ -1,0 +1,15 @@
+.dodger-button {
+  background: #222;
+  color: #ccc;
+  border-radius: 6px;
+  padding: 8px 20px;
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  z-index: 999;
+}
+
+.dodger-button:hover {
+  background-color: #333;
+  color: white;
+}
