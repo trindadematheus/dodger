@@ -1,0 +1,11 @@
+.y8WcF * {
+  cursor: pointer;
+  color: transparent;
+  text-shadow: 0 0 5px rgb(0 0 0 / 50%);
+  transition: all 200ms;
+}
+
+.y8WcF *:hover {
+  color: #e9edef;
+  text-shadow: none;
+}
