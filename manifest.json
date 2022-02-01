@@ -1,6 +1,6 @@
 {
   "name": "dodger",
-  "description": "Hide messages",
+  "description": "Hide WhatsApp Web messages for the curious",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [

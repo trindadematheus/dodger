@@ -9,3 +9,11 @@
   color: #e9edef;
   text-shadow: none;
 }
+
+.y8WcF img {
+  filter: blur(50px);
+}
+
+.y8WcF img:hover {
+  filter: blur(0px);
+}
